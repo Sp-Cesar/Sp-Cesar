@@ -55,7 +55,7 @@ Mi portafolio diseñado desde cero, con enfoque en elegancia, interactividad y u
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://sp-cesar.github.io/" target="_blank">
+  <a href="https://sp-cesar.github.io/Portafolio-Personal---Aaron-Sachun/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40"/>
   </a>
 </p>
